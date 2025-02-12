@@ -7,6 +7,10 @@ Challenge Amigo Secreto
 
    📓 Lógica de programación: explorar funciones y listas.
 
+📖  Breve video de la aplicación:
+
+   https://github.com/user-attachments/assets/6650d312-58e6-4e66-a729-8baf77b64365
+
 📖 El proyecto se estructura mediante la plantilla entragada en la plataforma  trello.
 📖 Se realizan todas las etapas planteadas y requerimientos.    
 
